@@ -1,16 +1,16 @@
-# 📉 Customer Churn Analysis
+#  Customer Churn Analysis
 
 An end-to-end exploratory data analysis project on a telecom customer dataset to uncover the key drivers of customer churn — helping businesses understand *who* is leaving and *why*.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Customer churn is one of the most costly challenges for subscription-based businesses. Losing a customer means losing recurring revenue and incurring the cost of acquiring a replacement. This project analyzes a telecom company's customer data to identify the behavioral patterns, service usage habits, and demographic factors most strongly associated with churn.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 | Property | Detail |
 |---|---|
@@ -27,7 +27,7 @@ Customer churn is one of the most costly challenges for subscription-based busin
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### Overall Churn Rate
 - **26.5%** of customers have churned — a significant portion worth targeted intervention.
@@ -54,7 +54,7 @@ Customer churn is one of the most costly challenges for subscription-based busin
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -67,7 +67,7 @@ Customer churn is one of the most costly challenges for subscription-based busin
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 customer-churn-analysis/
@@ -78,7 +78,7 @@ customer-churn-analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 **1. Clone the repository**
 ```bash
@@ -98,7 +98,7 @@ jupyter notebook Customer_Churn_analysis.ipynb
 
 ---
 
-## 📊 Visualizations Included
+##  Visualizations Included
 
 - Churn distribution (count plot + pie chart)
 - Churn by gender
@@ -110,7 +110,7 @@ jupyter notebook Customer_Churn_analysis.ipynb
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 Based on the analysis, the following actions could reduce churn:
 
@@ -122,7 +122,7 @@ Based on the analysis, the following actions could reduce churn:
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - Build a **predictive churn model** (Logistic Regression, Random Forest, XGBoost) to score individual customers by churn probability
 - Perform **feature importance analysis** to rank the strongest predictors
